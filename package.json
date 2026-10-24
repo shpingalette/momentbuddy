@@ -1,0 +1,12 @@
+{
+  "name": "momentbuddy",
+  "version": "0.1.0",
+  "description": "Log moments by voice or text, get a data-grounded recap of your year read aloud with ElevenLabs.",
+  "license": "MIT",
+  "private": true,
+  "engines": { "node": ">=20.12" },
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test test/*.test.js"
+  }
+}
